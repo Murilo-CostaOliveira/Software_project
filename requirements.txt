@@ -1,1 +1,4 @@
-pandas plotly_express streamlit
+pandas
+plotly_express
+nbformat
+streamlit
