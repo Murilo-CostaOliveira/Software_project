@@ -69,15 +69,7 @@ streamlit run app.py
 ```
 
 The app will open automatically at `http://localhost:8501`.
-.
-├── README.md
-├── app.py                       # Streamlit dashboard
-├── spotify_tracks.csv           # Dataset (~114,000 tracks)
-├── requirements.txt             # Python dependencies
-├── notebooks/
-│   └── EDA.ipynb                # Exploratory Data Analysis
-└── .streamlit/
-└── config.toml              # Streamlit config for Render deployment
+
 ## 🛠️ Built with
 
 - **Python 3.11**
