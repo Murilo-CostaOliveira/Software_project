@@ -72,13 +72,13 @@ streamlit run app.py
 
 The app will open automatically at `http://localhost:8501`.
 
-## 🛠️ Built with
+## Built with
 
 - **Python 3.14**
 - **Streamlit** — web framework
 - **Pandas** — data manipulation
 - **Plotly Express** — interactive visualizations
 
-## 📊 Data Source
+## Data Source
 
 Spotify Tracks Dataset, originally compiled by [maharshipandya](https://huggingface.co/datasets/maharshipandya/spotify-tracks-dataset). ~114,000 tracks across 114 genres with full audio features.
