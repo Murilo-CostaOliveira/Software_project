@@ -20,7 +20,7 @@ Cada gráfico é acompanhado de uma análise interpretativa abaixo, comentando o
 ```bash
 # Clone o repositório
 git clone https://github.com/Murilo-CostaOliveira/Software_project.git
-cd 
+cd Software_project
 
 # Crie e ative o ambiente virtual
 python -m venv spotify_env
@@ -55,8 +55,8 @@ Each chart is accompanied by an interpretive analysis discussing the main patter
 
 ```bash
 # Clone the repository
-git clone https://github.com//.git
-cd 
+git clone https://github.com/Murilo-CostaOliveira/Software_project.git
+cd Software_project
 
 # Create and activate the virtual environment
 python -m venv spotify_env
