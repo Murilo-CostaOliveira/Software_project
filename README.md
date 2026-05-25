@@ -1,5 +1,7 @@
 # App_Project
 
+RENDER URL:https://spotify-charts-nso4.onrender.com
+
 ## PT
 
 Este projeto é um dashboard web interativo construído com Streamlit e Plotly Express para explorar um conjunto de dados com características de áudio de aproximadamente 114.000 músicas do Spotify.
