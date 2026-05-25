@@ -72,7 +72,7 @@ The app will open automatically at `http://localhost:8501`.
 
 ## 🛠️ Built with
 
-- **Python 3.11**
+- **Python 3.14**
 - **Streamlit** — web framework
 - **Pandas** — data manipulation
 - **Plotly Express** — interactive visualizations
